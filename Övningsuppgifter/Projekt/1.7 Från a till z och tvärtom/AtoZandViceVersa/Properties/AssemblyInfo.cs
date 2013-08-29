@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RollFrequencyTable")]
-[assembly: AssemblyDescription("Inledande programmering med C# (1DV402), Introduktionsuppgift ")]
+[assembly: AssemblyTitle("AtoZandViceVersa")]
+[assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Linnéuniversitetet")]
-[assembly: AssemblyProduct("RollFrequencyTable")]
+[assembly: AssemblyProduct("AtoZandViceVersa")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7215e8f0-9037-4255-873b-99e5f0224e57")]
+[assembly: Guid("d4c212ab-9e8a-4498-a6f5-167c36ceaada")]
 
 // Version information for an assembly consists of the following four values:
 //
