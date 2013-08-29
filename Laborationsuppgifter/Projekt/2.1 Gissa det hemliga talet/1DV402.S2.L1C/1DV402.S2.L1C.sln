@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DV402.S2.L1C", "1DV402.S2.L1C\1DV402.S2.L1C.csproj", "{89264123-0161-485C-A25B-5B5F7CE632F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DV402.S2.L1C.TestProject", "1DV402.S2.L1C.TestProject\1DV402.S2.L1C.TestProject.csproj", "{4C8EE3BB-6E2D-4CFC-A062-57B9D3EA9776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89264123-0161-485C-A25B-5B5F7CE632F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89264123-0161-485C-A25B-5B5F7CE632F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89264123-0161-485C-A25B-5B5F7CE632F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89264123-0161-485C-A25B-5B5F7CE632F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8EE3BB-6E2D-4CFC-A062-57B9D3EA9776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8EE3BB-6E2D-4CFC-A062-57B9D3EA9776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8EE3BB-6E2D-4CFC-A062-57B9D3EA9776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8EE3BB-6E2D-4CFC-A062-57B9D3EA9776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
