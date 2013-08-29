@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("1DV402.S2.L1B")]
-[assembly: AssemblyDescription("Inledande programmering med C# (1DV402), Gissa det hemliga talet")]
+[assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Linnéuniversitetet")]
 [assembly: AssemblyProduct("1DV402.S2.L1B")]
