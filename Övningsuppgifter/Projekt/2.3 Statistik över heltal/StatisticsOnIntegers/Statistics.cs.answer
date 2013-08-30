@@ -1,0 +1,79 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace StatisticsOnIntegers
+{
+    class Statistics
+    {
+        private int _count;
+        private int _sum;
+        private int _max;
+        private int _min;
+
+        public Statistics()
+        {
+            _count = 0;
+            _sum = 0;
+            _max = int.MinValue;
+            _min = int.MaxValue;
+        }
+
+        public float Average
+        {
+            get
+            {
+                return (float)_sum / _count;
+            }
+        }
+
+        public int Count
+        {
+            get { return _count; }
+        }
+
+        public int Max
+        {
+            get { return _max; }
+        }
+
+        public int Min
+        {
+            get { return _min; }
+        }
+
+        public int Sum
+        {
+            get { return _sum; }
+        }
+
+        public void Add(int value)
+        {
+            ++_count;
+            _sum += value;
+
+            if (value > _max)
+            {
+                _max = value;
+            }
+
+            if (value < _min)
+            {
+                _min = value;
+            }
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat("Summan av talen är: {0}\n", _sum);
+            sb.AppendFormat("Det största talet är: {0}\n", _max);
+            sb.AppendFormat("Det lägsta talet är: {0}\n", _min);
+            sb.AppendFormat("Medelvärdet är: {0}", Average);
+
+            return sb.ToString();
+        }
+    }
+}
