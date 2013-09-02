@@ -1,0 +1,22 @@
+Sub BildAlternativText()
+'
+' BildAlternativText Makro
+'
+'
+    Dim sldTemp As Slide 
+    Dim lngTemp As Long 
+    Dim lngCount As Long 
+     
+    For Each sldTemp In ActivePresentation.Slides 
+        For lngCount = sldTemp.Shapes.Count To 1 Step -1 
+            With sldTemp.Shapes(lngCount) 
+                If .Type = msoPicture Then 
+                    .AlternativeText = "" 
+                End If 
+            End With 
+        Next 
+    Next 
+
+End Sub
+
+
