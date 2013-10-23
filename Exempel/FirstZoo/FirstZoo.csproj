@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="Sound\CatMeow.wav" />
     <Content Include="Sound\DogBark.wav" />
+    <Content Include="Sound\Hippo.wav" />
     <Content Include="Sound\LionRoar.wav" />
     <Content Include="Sound\LongLaugh.wav" />
     <Content Include="Sound\RaceCar.wav" />

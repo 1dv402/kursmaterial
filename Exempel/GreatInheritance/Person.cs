@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace GreatInheriteance
 {
     class Person
@@ -12,8 +7,11 @@ namespace GreatInheriteance
         protected string LastName { get; set; }
         protected string CivicRegistrationNumber { get; set; }
 
+        // Med hjälp av this pekas i samma klass ut den konstruktor som också
+        // ska anropas. Detta gör att kod som sköter initieringen kan koncentreras
+        // till en enda konstruktor; lämpligen den konstruktor som har flest parametrar.
         public Person()
-            :this("N")
+            : this("N") // Anropar den konstruktor som tar ett förnamn som argument.
         {
             //FirstName = "N";
             //LastName = "N";
@@ -21,19 +19,19 @@ namespace GreatInheriteance
         }
 
         public Person(string firstName)
-            : this(firstName, "N")
+            : this(firstName, "N") // Anropar den konstruktor som tar ett förnamn och efternamn som argument.
         {
             //FirstName = firstName;
-            ////LastName = "N";
-            ////CivicRegistrationNumber = "okänt!";
+            //LastName = "N";
+            //CivicRegistrationNumber = "okänt!";
         }
 
         public Person(string firstName, string lastName)
-            : this(firstName, lastName, "okänt!")
+            : this(firstName, lastName, "okänt!") // Anropar den konstruktor som tar ett förnamn, efternamn och personnummer som argument.
         {
             //FirstName = firstName;
             //LastName = lastName;
-            ////CivicRegistrationNumber = "okänt!";
+            //CivicRegistrationNumber = "okänt!";
         }
         
         public Person(string firstName, string lastName, string crn)

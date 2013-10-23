@@ -6,11 +6,15 @@ namespace GreatInheriteance
     {
         public char Grade { get; set; }
 
+        // Innan denna konstruktors kropp körs så
+        // körs "default"-konstruktorn i basklassen Person.
         public Student()
         {
-            // Tom!
+            Grade = '-';
         }
 
+        // Innan denna konstruktors kropp körs så
+        // körs den konstruktor i basklassen Person som har tre parametrar.
         public Student(string firstName, string lastName, string crn, char grade)
             :base(firstName, lastName, crn)
         {
@@ -20,6 +24,8 @@ namespace GreatInheriteance
             Grade = grade;
         }
 
+        // Denna metod "kör över", överskuggar (overrides), metoden ToString
+        // som finns deklarerad i basklassen; Person ärver metoden från Object.
         public override string ToString()
         {
             return String.Join(", ", LastName, FirstName, CivicRegistrationNumber, Grade);
@@ -27,6 +33,8 @@ namespace GreatInheriteance
 
         #region IComparable Members
 
+        // Denna metod används av Array.Sort för att kunna sortera referenser, i en array,
+        // till Student-objekt. Sorteringen sker på den sträng som ToString returnerar.
         public int CompareTo(object obj)
         {
             if (obj == null)
@@ -34,7 +42,7 @@ namespace GreatInheriteance
                 return 1;
             }
 
-            if (obj == this)
+            if (Object.ReferenceEquals(this, obj))
             {
                 return 0;
             }

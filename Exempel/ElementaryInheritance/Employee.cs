@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ElementaryInheritence
+namespace ElementaryInheritance
 {
     // Klassen ärver automatiskt från Object
     // även om det uttrycklingen inte står så.

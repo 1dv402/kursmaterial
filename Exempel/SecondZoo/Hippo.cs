@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Media;
 
-namespace FirstZoo
+namespace SecondZoo
 {
     // Ärver direkt från klassen Animal.
     class Hippo : Animal

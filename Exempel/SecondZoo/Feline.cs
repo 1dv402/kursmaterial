@@ -1,10 +1,9 @@
 ﻿using System;
 
-namespace FirstZoo
+namespace SecondZoo
 {
-    // Basklass för all kattdjur (Cat, Lion och Tiger). Klassen ärver
+    // Abstrakt basklass för alla kattdjur (Cat, Lion och Tiger). Klassen ärver
     // allt från Animal.
-    //public class Feline : Animal
     public abstract class Feline : Animal
     {
         // Överskuggar basklassens version av Roam med en egen.

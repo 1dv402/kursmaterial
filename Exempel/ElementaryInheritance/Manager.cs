@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ElementaryInheritence
+namespace ElementaryInheritance
 {
     // Klassen ärver allt från Employee men
     // kommer inte åt privata medlemmar i 

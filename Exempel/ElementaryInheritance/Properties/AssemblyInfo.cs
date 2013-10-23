@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ElementaryInheritence")]
+[assembly: AssemblyTitle("ElementaryInheritance")]
 [assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Linnéuniversitetet")]
-[assembly: AssemblyProduct("ElementaryInheritence")]
+[assembly: AssemblyProduct("ElementaryInheritance")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

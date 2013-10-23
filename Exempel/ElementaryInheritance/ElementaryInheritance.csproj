@@ -7,8 +7,8 @@
     <ProjectGuid>{B3BBD14C-70CE-48D1-8E08-0A000348E84C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ElementaryInheritence</RootNamespace>
-    <AssemblyName>ElementaryInheritence</AssemblyName>
+    <RootNamespace>ElementaryInheritance</RootNamespace>
+    <AssemblyName>ElementaryInheritance</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
