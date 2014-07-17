@@ -1,0 +1,272 @@
+﻿FirstName;MiddleName;LastName;JobTitle;Department;Phone;AddressLine1;City;StateProvinceName;PostalCode;CountryRegionName;Remote
+Barbara;C;Möreland;Accountant;Accountant;822-555-0145;137 Mazatlan;Seattle;Washington;98104;United States;0
+Mike;K;Séamans;Accountant;Accountant;927-555-0150;1245 Clay Road;Seattle;Washington;98256;United States;0
+David;J;Liu;Accounts Manager;Accountant;646-555-0185;9605 Pheasant Circle;Seattle;Washington;98251;United States;0
+Dragan;K;Tomic;Accounts Payable Specialist;Accountant;117-555-0185;3884 Beauty Street;Seattle;Washington;98251;United States;0
+Janet;L;Sheperdigian;Accounts Payable Specialist;Accountant;393-555-0186;6871 Thornwood Dr.;Seattle;Washington;98074;United States;0
+Bryan;A;Walton;Accounts Receivable Specialist;Accountant;935-555-0199;1397 Paradise Ct.;Seattle;Washington;98006;United States;0
+Deborah;E;Poe;Accounts Receivable Specialist;Accountant;602-555-0194;7640 First Ave.;Everett;Washington;98201;United States;0
+Candy;L;Spoon;Accounts Receivable Specialist;Accountant;920-555-0177;310 Winter Lane;Seattle;Washington;98256;United States;0
+Magnus;E;Hedlund;Facilities Administrative Assistant;Administration;583-555-0182;9533 Working Drive;Seattle;Washington;98055;United States;0
+Gary;E.;Altman;Facilities Manager;Administration;110-555-0112;2598 Breck Court;Seattle;Washington;98055;United States;0
+Grant;N;Culbertson;Human Resources Administrative Assistant;Administration;955-555-0131;213 Stonewood Drive;Seattle;Washington;98251;United States;0
+Hao;O;Chen;Human Resources Administrative Assistant;Administration;806-555-0136;7691 Benedict Ct.;Seattle;Washington;98027;United States;0
+Paula;M;Barreto de Mattos;Human Resources Manager;Administration;523-555-0175;4311 Clay Rd;Everett;Washington;98004;United States;0
+Jean;E;Trenary;Information Services Manager;Administration;685-555-0120;2383 Pepper Drive;Seattle;Washington;98052;United States;0
+Pat;H;Coleman;Janitor;Administration;720-555-0158;2425 Notre Dame Ave;Seattle;Washington;98251;United States;0
+Stuart;J;Macrae;Janitor;Administration;539-555-0149;2266 Greenwood Circle;Seattle;Washington;98055;United States;0
+Lori;K;Penor;Janitor;Administration;295-555-0161;3514 Sunshine;Seattle;Washington;98256;United States;0
+Jo;L;Berry;Janitor;Administration;228-555-0159;1748 Bird Drive;Seattle;Washington;98256;United States;0
+Christian;E;Kleinerman;Maintenance Supervisor;Administration;846-555-0157;8036 Summit View Dr.;Seattle;Washington;98251;United States;0
+Scott;A;Wright;Master Scheduler;Administration;992-555-0194;9297 Kenston Dr.;Seattle;Washington;98006;United States;0
+Willis;T;Johnson;Recruiter;Administration;778-555-0141;5452 Corte Gilberto;Everett;Washington;98201;United States;0
+Vidur;X;Luthra;Recruiter;Administration;153-555-0186;3030 Blackburn Ct.;Seattle;Washington;98006;United States;0
+Vamsi;N;Kuppa;Shipping and Receiving Clerk;Administration;937-555-0137;9833 Mt. Dias Blv.;Everett;Washington;98011;United States;0
+Matthias;T;Berndt;Shipping and Receiving Clerk;Administration;139-555-0120;4312 Cambridge Drive;Seattle;Washington;98055;United States;0
+Pilar;G;Ackerman;Shipping and Receiving Supervisor;Administration;577-555-0185;5407 Cougar Way;Seattle;Washington;98104;United States;0
+Ken;J;Sánchez;Chief Executive Officer;Board of Directors;697-555-0142;4350 Minute Dr.;Seattle;Washington;98006;United States;0
+Laura;F;Norman;Chief Financial Officer;Board of Directors;615-555-0110;6937 E. 42nd Street;Seattle;Washington;98055;United States;0
+Terri;L;Duffy;Vice President of Engineering;Board of Directors;819-555-0175;7559 Worth Ct.;Seattle;Washington;98055;United States;0
+James;R;Hamilton;Vice President of Production;Board of Directors;870-555-0122;9652 Los Angeles;Seattle;Washington;98272;United States;0
+Brian;S;Welcker;Vice President of Sales;Board of Directors;716-555-0127;7772 Golden Meadow;Seattle;Washington;98027;United States;0
+Gail;A;Erickson;Design Engineer;Design;849-555-0139;9435 Breck Court;Everett;Washington;98004;United States;0
+Dan;B;Wilson;Design Engineer;Design;653-555-0144;5863 Sierra;Everett;Washington;98004;United States;0
+Sharon;B;Salavaria;Design Engineer;Design;970-555-0138;7165 Brock Lane;Seattle;Washington;98055;United States;0
+Jossef;H;Goldberg;Design Engineer;Design;122-555-0189;5670 Bel Air Dr.;Seattle;Washington;98055;United States;0
+Chris;K;Norred;Design Engineer;Design;575-555-0126;989 Crown Ct;Seattle;Washington;98027;United States;0
+Tengiz;N;Kharatishvili;Design Engineer;Design;910-555-0116;3333 Madhatter Circle;Seattle;Washington;98027;United States;0
+François;P;Ajenstat;Design Engineer;Design;785-555-0110;1144 Paradise Ct.;Seattle;Washington;98027;United States;0
+Sean;N;Chai;Document Control Assistant;Design;205-555-0132;9314 Icicle Way;Seattle;Washington;98027;United States;0
+Karen;R;Berge;Document Control Assistant;Design;746-555-0164;3127 El Camino Drive;Seattle;Washington;98256;United States;0
+Zainal;T;Arifin;Document Control Manager;Design;204-555-0115;342 San Simeon;Seattle;Washington;98027;United States;0
+Michael;I;Sullivan;Senior Design Engineer;Design;465-555-0156;6510 Hacienda Drive;Seattle;Washington;98055;United States;0
+Rob;;Walters;Senior Tool Designer;Design;612-555-0100;5678 Lakeview Blvd.;Minneapolis;Minnesota;55402;United States;1
+Ovidiu;V;Cracium;Senior Tool Designer;Design;719-555-0181;5458 Gladstone Drive;Seattle;Washington;98028;United States;0
+Thierry;B;Dehers;Tool Designer;Design;168-555-0183;1970 Napa Ct.;Everett;Washington;98011;United States;0
+Janice;M;Galvin;Tool Designer;Design;473-555-0117;3397 Rancho View Drive;Seattle;Washington;98052;United States;0
+Diane;L;Margheim;Research and Development Engineer;Development;815-555-0138;475 Santa Maria;Everett;Washington;98201;United States;0
+Gigi;N;Matthew;Research and Development Engineer;Development;185-555-0186;7808 Brown St.;Everett;Washington;98004;United States;0
+Dylan;A;Miller;Research and Development Manager;Development;181-555-0156;7048 Laurel;Seattle;Washington;98028;United States;0
+Michael;;Raheem;Research and Development Manager;Development;330-555-2568;1234 Seaside Way;San Francisco;California;94109;United States;1
+Peter;I;Connelly;Network Administrator;IT;310-555-0133;9530 Vine Lane;Seattle;Washington;98027;United States;0
+Ashvini;R;Sharma;Network Administrator;IT;656-555-0119;6580 Poor Ridge Court;Seattle;Washington;98027;United States;0
+Stephanie;A;Conroy;Network Manager;IT;594-555-0110;7435 Ricardo;Seattle;Washington;98027;United States;0
+Mary;A;Dempsey;Marketing Assistant;Marketing;124-555-0114;6307 Greenbelt Way;Everett;Washington;98004;United States;0
+Kevin;F;Brown;Marketing Assistant;Marketing;150-555-0189;7883 Missing Canyon Court;Everett;Washington;98201;United States;0
+Wanida;M;Benshoof;Marketing Assistant;Marketing;708-555-0141;6951 Harmony Way;Seattle;Washington;98074;United States;0
+David;M;Bradley;Marketing Manager;Marketing;913-555-0172;3768 Door Way;Seattle;Washington;98052;United States;0
+Jill;A;Williams;Marketing Specialist;Marketing;510-555-0121;3238 Laguna Circle;Everett;Washington;98201;United States;0
+Sariya;E;Harnpadoungsataya;Marketing Specialist;Marketing;399-555-0176;1185 Dallas Drive;Everett;Washington;98201;United States;0
+Mary;E;Gibson;Marketing Specialist;Marketing;531-555-0183;3928 San Francisco;Everett;Washington;98201;United States;0
+Terry;J;Eminhizer;Marketing Specialist;Marketing;138-555-0118;8668 Via Neruda;Everett;Washington;98004;United States;0
+John;L;Wood;Marketing Specialist;Marketing;486-555-0150;9906 Oak Grove Road;Seattle;Washington;98052;United States;0
+Hazem;E;Abolrous;Quality Assurance Manager;Marketing;869-555-0125;5050 Mt. Wilson Way;Seattle;Washington;98028;United States;0
+Peng;J;Wu;Quality Assurance Supervisor;Marketing;164-555-0164;250 Race Court;Everett;Washington;98011;United States;0
+Mark;L;Harrington;Quality Assurance Technician;Marketing;147-555-0179;8585 Los Gatos Ct.;Seattle;Washington;98027;United States;0
+Sean;P;Alexander;Quality Assurance Technician;Marketing;420-555-0173;7985 Center Street;Seattle;Washington;98055;United States;0
+Sootha;T;Charncherngkha;Quality Assurance Technician;Marketing;325-555-0137;4155 Working Drive;Seattle;Washington;98028;United States;0
+Andreas;T;Berglund;Quality Assurance Technician;Marketing;181-555-0124;1803 Olive Hill;Seattle;Washington;98055;United States;0
+Roberto;;Tamburello;Engineering Manager;Production;212-555-0187;2137 Birchwood Dr;Seattle;Washington;98052;United States;0
+Peter;J;Krebs;Production Control Manager;Production;913-555-0196;3670 All Ways Drive;Everett;Washington;98004;United States;0
+Cristian;K;Petculescu;Production Supervisor - WC10;Production;434-555-0133;7166 Brock Lane;Seattle;Washington;98104;United States;0
+Andrew;R;Hill;Production Supervisor - WC10;Production;908-555-0159;6629 Polson Circle;Everett;Washington;98201;United States;0
+Zheng;W;Mu;Production Supervisor - WC10;Production;113-555-0173;6578 Woodhaven Ln.;Seattle;Washington;98104;United States;0
+Yuhong;L;Li;Production Supervisor - WC20;Production;965-555-0155;502 Alexander Pl.;Seattle;Washington;98104;United States;0
+Katie;L;McAskill-White;Production Supervisor - WC20;Production;809-555-0133;4948 West 4th St;Seattle;Washington;98104;United States;0
+Eric;;Gubbels;Production Supervisor - WC20;Production;260-555-0119;371 Apple Dr.;Everett;Washington;98020;United States;0
+Cynthia;S;Randall;Production Supervisor - WC30;Production;352-555-0138;463 H Stagecoach Rd.;Seattle;Washington;98028;United States;0
+Jack;S;Richins;Production Supervisor - WC30;Production;552-555-0111;1356 Grove Way;Seattle;Washington;98272;United States;0
+Michael;S;Ray;Production Supervisor - WC30;Production;156-555-0199;6498 Mining Rd.;Seattle;Washington;98104;United States;0
+Reuben;H;D'sa;Production Supervisor - WC40;Production;191-555-0112;1064 Slow Creek Road;Seattle;Washington;98104;United States;0
+Brenda;M;Diaz;Production Supervisor - WC40;Production;142-555-0139;1349 Steven Way;Seattle;Washington;98104;United States;0
+David;P;Hamilton;Production Supervisor - WC40;Production;986-555-0177;4095 Cooper Dr.;Seattle;Washington;98028;United States;0
+Lori;A;Kane;Production Supervisor - WC45;Production;289-555-0196;3066 Wallace Dr.;Seattle;Washington;98052;United States;0
+Shane;S;Kim;Production Supervisor - WC45;Production;810-555-0178;9745 Bonita Ct.;Everett;Washington;98004;United States;0
+Jeff;V;Hay;Production Supervisor - WC45;Production;350-555-0167;3385 Crestview Drive;Everett;Washington;98201;United States;0
+Jinghao;K;Liu;Production Supervisor - WC50;Production;794-555-0159;9666 Northridge Ct.;Everett;Washington;98014;United States;0
+Taylor;R;Maxwell;Production Supervisor - WC50;Production;508-555-0165;504 O St.;Everett;Washington;98020;United States;0
+Kok-Ho;T;Loh;Production Supervisor - WC50;Production;999-555-0155;3708 Montana;Everett;Washington;98004;United States;0
+Jo;A;Brown;Production Supervisor - WC60;Production;632-555-0129;9693 Mellowood Street;Everett;Washington;98019;United States;0
+JoLynn;M;Dobney;Production Supervisor - WC60;Production;903-555-0145;7126 Ending Ct.;Seattle;Washington;98104;United States;0
+John;T;Campbell;Production Supervisor - WC60;Production;435-555-0113;2639 Anchor Court;Seattle;Washington;98104;United States;0
+Betsy;A;Stadick;Production Technician - WC10;Production;405-555-0171;5672 Hale Dr.;Everett;Washington;98011;United States;0
+Ruth;A;Ellerbrock;Production Technician - WC10;Production;145-555-0130;2176 Apollo Way;Everett;Washington;98201;United States;0
+Kimberly;B;Zimmerman;Production Technician - WC10;Production;123-555-0167;8656 Lakespring Place;Seattle;Washington;98104;United States;0
+Patrick;C;Wedge;Production Technician - WC10;Production;413-555-0124;3067 Maya;Everett;Washington;98004;United States;0
+Danielle;C;Tiedt;Production Technician - WC10;Production;500-555-0172;5203 Virginia Lane;Seattle;Washington;98028;United States;0
+Christopher;E;Hill;Production Technician - WC10;Production;153-555-0166;1902 Santa Cruz;Everett;Washington;98011;United States;0
+Barry;K;Johnson;Production Technician - WC10;Production;206-555-0180;3114 Notre Dame Ave.;Seattle;Washington;98296;United States;0
+Jeffrey;L;Ford;Production Technician - WC10;Production;984-555-0185;5734 Ashford Court;Seattle;Washington;98272;United States;0
+Kevin;M;Homer;Production Technician - WC10;Production;555-555-0113;6058 Hill Street;Everett;Washington;98004;United States;0
+Sidney;M;Higa;Production Technician - WC10;Production;424-555-0189;9277 Country View Lane;Everett;Washington;98020;United States;0
+Tom;M;Vande Velde;Production Technician - WC10;Production;295-555-0161;5242 Marvelle Ln.;Everett;Washington;98201;United States;0
+Alexander;M;Cirteg;Production Technician - WC10;Production;328-555-0150;5553 Cash Avenue;Seattle;Washington;98028;United States;0
+Ebru;N;Ersan;Production Technician - WC10;Production;202-555-0187;8316 La Salle St.;Seattle;Washington;98074;United States;0
+Bonnie;N;Kearney;Production Technician - WC10;Production;264-555-0150;4852 Chaparral Court;Seattle;Washington;98296;United States;0
+Diane;R;Glimp;Production Technician - WC10;Production;202-555-0151;9006 Woodside Way;Seattle;Washington;98052;United States;0
+Mary;R;Baker;Production Technician - WC10;Production;283-555-0185;2354 Frame Ln.;Seattle;Washington;98104;United States;0
+John;T;Kane;Production Technician - WC10;Production;254-555-0114;8209 Green View Court;Everett;Washington;98019;United States;0
+Sylvester;A;Valdez;Production Technician - WC20;Production;492-555-0174;7902 Grammercy Lane;Everett;Washington;98004;United States;0
+Stefen;A;Hesse;Production Technician - WC20;Production;165-555-0113;8463 Vista Avenue;Everett;Washington;98019;United States;0
+Linda;A;Randall;Production Technician - WC20;Production;696-555-0157;77 Birchwood;Seattle;Washington;98104;United States;0
+Olinda;C;Turner;Production Technician - WC20;Production;306-555-0186;7221 Peachwillow Street;Everett;Washington;98004;United States;0
+Prasanna;E;Samarawickrama;Production Technician - WC20;Production;129-555-0199;9322 Driving Drive;Seattle;Washington;98052;United States;0
+Min;G;Su;Production Technician - WC20;Production;590-555-0152;7396 Stratton Circle;Everett;Washington;98004;United States;0
+Samantha;H;Smith;Production Technician - WC20;Production;587-555-0114;1648 Eastgate Lane;Everett;Washington;98004;United States;0
+Raymond;K;Sam;Production Technician - WC20;Production;226-555-0197;9784 Mt Etna Drive;Everett;Washington;98020;United States;0
+Fadi;K;Fakhouri;Production Technician - WC20;Production;935-555-0116;1285 Greenbrier Street;Seattle;Washington;98296;United States;0
+Lane;M;Sacksteder;Production Technician - WC20;Production;200-555-0117;3029 Pastime Dr;Seattle;Washington;98104;United States;0
+Shelley;N;Dyck;Production Technician - WC20;Production;991-555-0184;3747 W. Landing Avenue;Seattle;Washington;98272;United States;0
+Krishna;;Sunkammurali;Production Technician - WC20;Production;491-555-0183;6870 D Bel Air Drive;Everett;Washington;98020;United States;0
+Hanying;P;Feng;Production Technician - WC20;Production;319-555-0139;7297 RisingView;Seattle;Washington;98052;United States;0
+Paul;R;Singh;Production Technician - WC20;Production;727-555-0112;1343 Prospect St;Everett;Washington;98004;United States;0
+Nitin;S;Mirchandani;Production Technician - WC20;Production;143-555-0173;4096 San Remo;Seattle;Washington;98074;United States;0
+Barbara;S;Decker;Production Technician - WC20;Production;119-555-0192;7145 Matchstick Drive;Seattle;Washington;98074;United States;0
+Michael;T;Hines;Production Technician - WC20;Production;218-555-0126;1792 Belmont Rd.;Seattle;Washington;98272;United States;0
+Anibal;T;Sousa;Production Technician - WC20;Production;106-555-0120;6891 Ham Drive;Seattle;Washington;98052;United States;0
+Hung-Fu;T;Ting;Production Technician - WC20;Production;497-555-0181;7086 O St.;Seattle;Washington;98074;United States;0
+Terrence;W;Earls;Production Technician - WC20;Production;110-555-0115;6968 Wren Ave.;Everett;Washington;98004;United States;0
+Ivo;W;Salmre;Production Technician - WC20;Production;115-555-0179;3841 Silver Oaks Place;Seattle;Washington;98272;United States;0
+John;Y;Chen;Production Technician - WC20;Production;201-555-0163;3977 Central Avenue;Everett;Washington;98019;United States;0
+Susan;A;Metters;Production Technician - WC30;Production;639-555-0164;9104 Mt. Sequoia Ct.;Seattle;Washington;98074;United States;0
+David;A;Yalovsky;Production Technician - WC30;Production;373-555-0142;5025 Holiday Hills;Seattle;Washington;98104;United States;0
+Merav;A;Netz;Production Technician - WC30;Production;224-555-0187;5666 Hazelnut Lane;Seattle;Washington;98104;United States;0
+Rostislav;E;Shabalin;Production Technician - WC30;Production;751-555-0134;3711 Rollingwood Dr;Everett;Washington;98004;United States;0
+Michiko;F;Osada;Production Technician - WC30;Production;984-555-0148;1962 Ferndale Lane;Seattle;Washington;98074;United States;0
+Marc;J;Ingle;Production Technician - WC30;Production;234-555-0169;2473 Orchard Way;Seattle;Washington;98074;United States;0
+Jason;M;Watters;Production Technician - WC30;Production;571-555-0179;9320 Teakwood Dr.;Everett;Washington;98004;United States;0
+Andy;M;Ruth;Production Technician - WC30;Production;118-555-0110;4777 Rockne Drive;Everett;Washington;98004;United States;0
+Russell;M;King;Production Technician - WC30;Production;517-555-0122;3919 Pinto Road;Everett;Washington;98004;United States;0
+Carol;M;Philips;Production Technician - WC30;Production;609-555-0153;6872 Thornwood Dr.;Everett;Washington;98011;United States;0
+Carole;M;Poland;Production Technician - WC30;Production;688-555-0192;8411 Mt. Orange Place;Everett;Washington;98020;United States;0
+Björn;M;Rettig;Production Technician - WC30;Production;199-555-0117;5802 Ampersand Drive;Seattle;Washington;98104;United States;0
+John;N;Frum;Production Technician - WC30;Production;663-555-0172;3665 Oak Creek Ct.;Everett;Washington;98201;United States;0
+David;N;Johnson;Production Technician - WC30;Production;166-555-0162;6697 Ridge Park Drive;Seattle;Washington;98028;United States;0
+Jian Shuo;;Wang;Production Technician - WC30;Production;952-555-0178;8310 Ridge Circle;Seattle;Washington;98272;United States;0
+Sandra;;Reátegui Alayo;Production Technician - WC30;Production;896-555-0168;1619 Stillman Court;Seattle;Washington;98104;United States;0
+David;O;Lawrence;Production Technician - WC30;Production;118-555-0177;158 Walnut Ave;Seattle;Washington;98272;United States;0
+Eugene;R;Zabokritski;Production Technician - WC30;Production;241-555-0191;7939 Bayview Court;Seattle;Washington;98074;United States;0
+Garrett;R;Young;Production Technician - WC30;Production;609-555-0179;2115 Passing;Seattle;Washington;98296;United States;0
+Benjamin;R;Martin;Production Technician - WC30;Production;533-555-0111;4231 Spar Court;Seattle;Washington;98296;United States;0
+Jan;S;Miksovsky;Production Technician - WC30;Production;139-555-0131;8624 Pepper Way;Everett;Washington;98201;United States;0
+Michael;T;Vanderhyde;Production Technician - WC30;Production;296-555-0121;2812 Mazatlan;Everett;Washington;98020;United States;0
+Steven;T;Selikoff;Production Technician - WC30;Production;925-555-0114;181 Gaining Drive;Everett;Washington;98201;United States;0
+Reed;T;Koch;Production Technician - WC30;Production;678-555-0110;1275 West Street;Seattle;Washington;98052;United States;0
+George;Z;Li;Production Technician - WC30;Production;518-555-0199;3074 Arbor Drive;Everett;Washington;98014;United States;0
+Paul;B;Komosinski;Production Technician - WC40;Production;147-555-0160;7270 Pepper Way;Everett;Washington;98004;United States;0
+Gabe;B;Mares;Production Technician - WC40;Production;310-555-0117;1061 Buskrik Avenue;Everett;Washington;98020;United States;0
+Nicole;B;Holliday;Production Technician - WC40;Production;508-555-0129;3243 Buckingham Dr.;Seattle;Washington;98104;United States;0
+Alejandro;E;McGuel;Production Technician - WC40;Production;668-555-0130;7127 Los Gatos Court;Seattle;Washington;98104;United States;0
+Baris;F;Cetinok;Production Technician - WC40;Production;164-555-0114;426 San Rafael;Seattle;Washington;98104;United States;0
+Shammi;G;Mohamed;Production Technician - WC40;Production;793-555-0179;332 Laguna Niguel;Everett;Washington;98004;United States;0
+Tawana;G;Nusbaum;Production Technician - WC40;Production;368-555-0113;9964 North Ridge Drive;Seattle;Washington;98104;United States;0
+Kevin;H;Liu;Production Technician - WC40;Production;714-555-0138;7594 Alexander Pl.;Seattle;Washington;98104;United States;0
+Eric;L;Brown;Production Technician - WC40;Production;680-555-0118;5086 Nottingham Place;Everett;Washington;98019;United States;0
+Michael;L;Rothkugel;Production Technician - WC40;Production;454-555-0119;207 Berry Court;Everett;Washington;98020;United States;0
+Ken;L;Myer;Production Technician - WC40;Production;949-555-0174;1362 Somerset Place;Everett;Washington;98201;United States;0
+Ryan;L;Cornelsen;Production Technician - WC40;Production;208-555-0114;177 11th Ave;Seattle;Washington;98074;United States;0
+Rajesh;M;Patel;Production Technician - WC40;Production;373-555-0137;5423 Champion Rd.;Everett;Washington;98020;United States;0
+Patrick;M;Cook;Production Technician - WC40;Production;425-555-0117;9537 Ridgewood Drive;Seattle;Washington;98104;United States;0
+Lorraine;O;Nay;Production Technician - WC40;Production;845-555-0184;2059 Clay Rd;Everett;Washington;98020;United States;0
+Sandeep;P;Kaliyath;Production Technician - WC40;Production;166-555-0156;4310 Kenston Dr.;Seattle;Washington;98074;United States;0
+Paula;R;Nartker;Production Technician - WC40;Production;476-555-0119;2144 San Rafael;Seattle;Washington;98104;United States;0
+Frank;R;Martinez;Production Technician - WC40;Production;203-555-0196;5724 Victory Lane;Seattle;Washington;98296;United States;0
+Brian;R;Goldstein;Production Technician - WC40;Production;730-555-0117;8157 W. Book;Everett;Washington;98011;United States;0
+Rob;T;Caron;Production Technician - WC40;Production;238-555-0116;5030 Blue Ridge Dr.;Seattle;Washington;98272;United States;0
+Frank;T;Lee;Production Technician - WC40;Production;158-555-0191;8290 Margaret Ct.;Seattle;Washington;98104;United States;0
+Jack;T;Creasey;Production Technician - WC40;Production;521-555-0113;874 Olivera Road;Seattle;Washington;98104;United States;0
+Fred;T;Northup;Production Technician - WC40;Production;818-555-0192;2601 Cambridge Drive;Seattle;Washington;98296;United States;0
+Brian;T;Lloyd;Production Technician - WC40;Production;110-555-0182;7230 Vine Maple Street;Seattle;Washington;98296;United States;0
+Mihail;U;Frintu;Production Technician - WC40;Production;733-555-0128;2466 Clearland Circle;Everett;Washington;98020;United States;0
+Gary;W;Yukish;Production Technician - WC40;Production;901-555-0125;6057 Hill Street;Everett;Washington;98020;United States;0
+Douglas;B;Hite;Production Technician - WC45;Production;808-555-0172;390 Ridgewood Ct.;Everett;Washington;98014;United States;0
+Laura;C;Steele;Production Technician - WC45;Production;777-555-0141;1825 Corte Del Prado;Everett;Washington;98019;United States;0
+Lionel;C;Penuchot;Production Technician - WC45;Production;450-555-0152;7765 Sunsine Drive;Seattle;Washington;98104;United States;0
+Kathie;E;Flood;Production Technician - WC45;Production;446-555-0118;9241 St George Dr.;Everett;Washington;98201;United States;0
+Greg;F;Alderson;Production Technician - WC45;Production;332-555-0150;8684 Military East;Everett;Washington;98004;United States;0
+Kirk;J;Koenigsbauer;Production Technician - WC45;Production;669-555-0150;1220 Bradford Way;Seattle;Washington;98104;United States;0
+Robert;J;Rounthwaite;Production Technician - WC45;Production;589-555-0147;6843 San Simeon Dr.;Seattle;Washington;98104;United States;0
+Belinda;M;Newman;Production Technician - WC45;Production;319-555-0126;1399 Firestone Drive;Everett;Washington;98011;United States;0
+Janeth;M;Esteves;Production Technician - WC45;Production;540-555-0191;4566 La Jolla;Seattle;Washington;98272;United States;0
+Alex;M;Néyberg;Production Technician - WC45;Production;819-555-0198;1400 Gate Drive;Seattle;Washington;98006;United States;0
+Andrew;M;Cencini;Production Technician - WC45;Production;207-555-0192;4444 Pepper Way;Seattle;Washington;98074;United States;0
+Scott;R;Gode;Production Technician - WC45;Production;391-555-0138;7403 N. Broadway;Seattle;Washington;98104;United States;0
+Yvonne;S;McKay;Production Technician - WC45;Production;286-555-0189;1962 Cotton Ct.;Everett;Washington;98201;United States;0
+Chris;T;Preston;Production Technician - WC45;Production;200-555-0112;6657 Sand Pointe Lane;Seattle;Washington;98104;United States;0
+Stuart;V;Munson;Production Technician - WC45;Production;413-555-0136;6448 Castle Court;Everett;Washington;98004;United States;0
+Sameer;A;Tejani;Production Technician - WC50;Production;990-555-0172;5379 Treasure Island Way;Everett;Washington;98019;United States;0
+Lolan;B;Song;Production Technician - WC50;Production;582-555-0178;8152 Claudia Dr.;Everett;Washington;98020;United States;0
+Kendall;C;Keil;Production Technician - WC50;Production;138-555-0128;7439 Laguna Niguel;Seattle;Washington;98104;United States;0
+Pete;C;Male;Production Technician - WC50;Production;768-555-0123;5375 Clearland Circle;Seattle;Washington;98104;United States;0
+Mandar;H;Samant;Production Technician - WC50;Production;140-555-0132;2598 La Vista Circle;Everett;Washington;98019;United States;0
+Jim;H;Scardelis;Production Technician - WC50;Production;679-555-0113;172 Turning Dr.;Everett;Washington;98020;United States;0
+Diane;H;Tibbott;Production Technician - WC50;Production;361-555-0180;8192 Seagull Court;Seattle;Washington;98028;United States;0
+Denise;H;Smith;Production Technician - WC50;Production;869-555-0119;5669 Ironwood Way;Seattle;Washington;98028;United States;0
+Kitti;H;Lertpiriyasuwat;Production Technician - WC50;Production;785-555-0132;5376 Catanzaro Way;Seattle;Washington;98104;United States;0
+Elizabeth;I;Keyser;Production Technician - WC50;Production;318-555-0137;350 Pastel Drive;Seattle;Washington;98031;United States;0
+Mindaugas;J;Krapauskas;Production Technician - WC50;Production;637-555-0120;9825 Coralie Drive;Everett;Washington;98020;United States;0
+Linda;K;Moschell;Production Technician - WC50;Production;612-555-0171;3284 S. Blank Avenue;Everett;Washington;98004;United States;0
+Don;L;Hall;Production Technician - WC50;Production;100-555-0174;1411 Ranch Drive;Everett;Washington;98014;United States;0
+Bob;N;Hohman;Production Technician - WC50;Production;611-555-0116;6387 Scenic Avenue;Everett;Washington;98011;United States;0
+Houman;N;Pournasseh;Production Technician - WC50;Production;180-555-0136;9882 Clay Rde;Seattle;Washington;98052;United States;0
+Nuan;;Yu;Production Technician - WC50;Production;913-555-0184;3454 Bel Air Drive;Everett;Washington;98004;United States;0
+Russell;;Hunter;Production Technician - WC50;Production;786-555-0144;7616 Honey Court;Seattle;Washington;98104;United States;0
+Alice;O;Ciccu;Production Technician - WC50;Production;333-555-0173;3280 Pheasant Circle;Seattle;Washington;98296;United States;0
+John;P;Evans;Production Technician - WC50;Production;172-555-0130;136 Balboa Court;Seattle;Washington;98104;United States;0
+Suroor;R;Fatima;Production Technician - WC50;Production;932-555-0161;3281 Hillview Dr.;Everett;Washington;98020;United States;0
+Jun;T;Cao;Production Technician - WC50;Production;299-555-0113;4909 Poco Lane;Seattle;Washington;98052;United States;0
+Michael;T;Entin;Production Technician - WC50;Production;817-555-0186;2482 Buckingham Dr.;Seattle;Washington;98052;United States;0
+Frank;T;Miller;Production Technician - WC50;Production;167-555-0139;591 Merriewood Drive;Seattle;Washington;98296;United States;0
+Chad;W;Niswonger;Production Technician - WC50;Production;559-555-0175;5747 Shirley Drive;Everett;Washington;98011;United States;0
+Angela;W;Barbariol;Production Technician - WC50;Production;150-555-0194;2687 Ridge Road;Everett;Washington;98020;United States;0
+Michael;W;Patten;Production Technician - WC50;Production;441-555-0195;2038 Encino Drive;Everett;Washington;98020;United States;0
+Rebecca;A;Laszlo;Production Technician - WC60;Production;314-555-0113;3197 Thornhill Place;Everett;Washington;98004;United States;0
+Nancy;A;Anderson;Production Technician - WC60;Production;970-555-0118;7820 Bird Drive;Seattle;Washington;98074;United States;0
+Kim;B;Abercrombie;Production Technician - WC60;Production;208-555-0114;9752 Jeanne Circle;Everett;Washington;98014;United States;0
+Charles;B;Fitzgerald;Production Technician - WC60;Production;931-555-0118;5263 Etcheverry Dr;Seattle;Washington;98074;United States;0
+Simon;D;Rapier;Production Technician - WC60;Production;963-555-0134;3421 Bouncing Road;Everett;Washington;98019;United States;0
+James;D;Kramer;Production Technician - WC60;Production;119-555-0117;4734 Sycamore Court;Seattle;Washington;98272;United States;0
+Steve;F;Masters;Production Technician - WC60;Production;712-555-0170;1398 Yorba Linda;Seattle;Washington;98104;United States;0
+Jay;G;Adams;Production Technician - WC60;Production;407-555-0165;896 Southdale;Seattle;Washington;98272;United States;0
+Brandon;G;Heidepriem;Production Technician - WC60;Production;429-555-0137;8000 Crane Court;Seattle;Washington;98052;United States;0
+Michael;J;Zwilling;Production Technician - WC60;Production;582-555-0148;7511 Cooper Dr.;Everett;Washington;98020;United States;0
+David;J;Ortiz;Production Technician - WC60;Production;712-555-0119;931 Corte De Luna;Seattle;Washington;98104;United States;0
+Mark;K;McArthur;Production Technician - WC60;Production;417-555-0154;9863 Ridge Place;Seattle;Washington;98052;United States;0
+Britta;L;Simon;Production Technician - WC60;Production;955-555-0169;2046 Las Palmas;Everett;Washington;98020;United States;0
+Bryan;;Baker;Production Technician - WC60;Production;712-555-0113;2275 Valley Blvd.;Seattle;Washington;98272;United States;0
+Suchitra;O;Mohan;Production Technician - WC60;Production;753-555-0129;5678 Clear Court;Everett;Washington;98004;United States;0
+Eugene;O;Kogan;Production Technician - WC60;Production;173-555-0179;991 Vista Verde;Everett;Washington;98019;United States;0
+Chris;O;Okelberry;Production Technician - WC60;Production;315-555-0144;8467 Clifford Court;Seattle;Washington;98052;United States;0
+Annik;O;Stahl;Production Technician - WC60;Production;499-555-0125;7842 Ygnacio Valley Road;Seattle;Washington;98104;United States;0
+Thomas;R;Michaels;Production Technician - WC60;Production;278-555-0118;7338 Green St.;Everett;Washington;98020;United States;0
+Guy;R;Gilbert;Production Technician - WC60;Production;320-555-0195;7726 Driftwood Drive;Seattle;Washington;98272;United States;0
+Jose;R;Lugo;Production Technician - WC60;Production;587-555-0115;5125 Cotton Ct.;Seattle;Washington;98104;United States;0
+Karan;R;Khanna;Production Technician - WC60;Production;447-555-0186;1102 Ravenwood;Seattle;Washington;98104;United States;0
+Ed;R;Dudenhoefer;Production Technician - WC60;Production;919-555-0140;4598 Manila Avenue;Seattle;Washington;98104;United States;0
+Randy;T;Reeves;Production Technician - WC60;Production;961-555-0122;3632 Bank Way;Everett;Washington;98020;United States;0
+Margie;W;Shoop;Production Technician - WC60;Production;818-555-0128;2080 Sycamore Drive;Everett;Washington;98020;United States;0
+Maciej;W;Dusza;Production Technician - WC60;Production;237-555-0128;3026 Anchor Drive;Everett;Washington;98020;United States;0
+Amy;E;Alberts;European Sales Manager;Sales;775-555-0164;5009 Orange Street;Seattle;Washington;98055;United States;0
+Stephen;Y;Jiang;North American Sales Manager;Sales;238-555-0197;2427 Notre Dame Ave.;Seattle;Washington;98052;United States;0
+Syed;E;Abbas;Pacific Sales Manager;Sales;926-555-0182;7484 Roundtree Drive;Everett;Washington;98011;United States;0
+Annette;L;Hill;Purchasing Assistant;Sales;125-555-0196;6369 Ellis Street;Seattle;Washington;98052;United States;0
+Reinout;N;Hillmann;Purchasing Assistant;Sales;370-555-0163;620 Woodside Ct.;Everett;Washington;98004;United States;0
+Sheela;H;Word;Purchasing Manager;Sales;210-555-0193;535 Greendell Pl;Seattle;Washington;98074;United States;0
+Tete;A;Mensa-Annan;Sales Representative;Sales;615-555-0153;3997 Via De Luna;Cambridge;Massachusetts;2139;United States;1
+Rachel;B;Valdez;Sales Representative;Sales;1 (11) 500 555-0140;Pascalstr 951;Berlin;Hamburg;14111;Germany;1
+Jae;B;Pak;Sales Representative;Sales;1 (11) 500 555-0145;Downshire Way;Cambridge;England;BA5 3HX;United Kingdom;1
+Linda;C;Mitchell;Sales Representative;Sales;883-555-0116;2487 Riverside Drive;Nevada;Utah;84407;United States;1
+José;E;Saraiva;Sales Representative;Sales;185-555-0169;9100 Sheppard Avenue North;Ottawa;Ontario;K4B 1T7;Canada;1
+Michael;G;Blythe;Sales Representative;Sales;257-555-0154;8154 Via Mexico;Detroit;Michigan;48226;United States;1
+Shu;K;Ito;Sales Representative;Sales;330-555-0120;5725 Glaze Drive;San Francisco;California;94109;United States;1
+Tsvi;M;Reiter;Sales Representative;Sales;664-555-0112;8291 Crossbow Way;Memphis;Tennessee;38103;United States;1
+Lynn;N;Tsoflias;Sales Representative;Sales;1 (11) 500 555-0190;34 Waterloo Road;Melbourne;Victoria;3000;Australia;1
+Jillian;;Carson;Sales Representative;Sales;517-555-0117;80 Sunview Terrace;Duluth;Minnesota;55802;United States;1
+Pamela;O;Ansman-Wolfe;Sales Representative;Sales;340-555-0193;636 Vine Hill Way;Portland;Oregon;97205;United States;1
+Ranjit;R;Varkey Chudukatil;Sales Representative;Sales;1 (11) 500 555-0117;94, rue Descartes;Bordeaux;Gironde;33000;France;1
+Garrett;R;Vargas;Sales Representative;Sales;922-555-0165;10203 Acorn Avenue;Calgary;Alberta;T2P 2G8;Canada;1
+David;R;Campbell;Sales Representative;Sales;740-555-0182;2284 Azalea Avenue;Everett;Washington;98004;United States;0
+Alan;J;Brewer;Scheduling Assistant;Sales;438-555-0172;25 95th Ave NE;Seattle;Washington;98028;United States;0
+Sairaj;L;Uddin;Scheduling Assistant;Sales;500-555-0159;8040 Hill Ct;Seattle;Washington;98052;United States;0
+Brian;P;LaMee;Scheduling Assistant;Sales;313-555-0196;2294 West 39th St.;Everett;Washington;98201;United States;0
+William;S;Vong;Scheduling Assistant;Sales;148-555-0145;6774 Bonanza;Everett;Washington;98004;United States;0
